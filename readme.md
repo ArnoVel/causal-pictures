@@ -1,6 +1,9 @@
 # A Gallery of Causality-related pictures
-For the code that produced them, see [my code repo](../structure-identification) (which contains pictures too, but in very limited amounts)
+For the code that produced them, see [my code repo](https://github.com/ArnoVel/structure-identification) (which contains pictures too, but in very limited amounts).
+
 ## Additive Noise Models
+The well studied `Y = f(X) + N` for varying `f`,`X`,`N` distributions.
+
 ### GMM Cause, Student-t Noise, Spline Mechanism
 ![](./pairs/anm_True_c_gmm_bn_student_m_spline.png?raw=true)
 
@@ -19,6 +22,12 @@ For the code that produced them, see [my code repo](../structure-identification)
 
 ### SubGMM Cause, Normal Noise, TanhSum Mechanism
 ![](./pairs/anm_True_c_subgmm_bn_normal_m_tanhsum.png?raw=true)
+
+### Uniform Cause, Semicircular Noise, TanhSum Mechanism
+![](./pairs/anm_True_c_uniform_bn_semicircular_m_tanhsum.png?raw=true)
+
+### Uniform Cause, Beta Noise, RbfGP Mechanism
+![](./pairs/anm_True_c_uniform_bn_beta_m_rbfgp.png?raw=true)
 
 
 ## Heteroskedastic Noise Models
@@ -42,3 +51,9 @@ All Heteroskedastic noise amplitude modulations are cubic splines.
 
 ### SubGMM Cause, Normal Noise, TanhSum Mechanism
 ![](./pairs/anm_False_c_subgmm_bn_normal_m_tanhsum.png?raw=true)
+
+### Uniform Cause, Semicircular Noise, TanhSum Mechanism
+![](./pairs/anm_False_c_uniform_bn_semicircular_m_tanhsum.png?raw=true)
+
+### Uniform Cause, Beta Noise, RbfGP Mechanism
+![](./pairs/anm_False_c_uniform_bn_beta_m_rbfgp.png?raw=true)
