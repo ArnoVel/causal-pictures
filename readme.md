@@ -1,5 +1,5 @@
 # A Gallery of Causality-related pictures
-For the code that produced them, see [my code repo](ArnoVel/structure-identification) (which contains pictures too, but in very limited amounts)
+For the code that produced them, see [my code repo](../structure-identification) (which contains pictures too, but in very limited amounts)
 ## Additive Noise Models
 ### GMM Cause, Student-t Noise, Spline Mechanism
 ![](./pairs/anm_True_c_gmm_bn_student_m_spline.png?raw=true)
