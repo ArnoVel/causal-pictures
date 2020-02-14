@@ -7,4 +7,5 @@ can be found [in the pairs folder](./pairs)
 
 ## Cause, Noise, Mechanisms
 
-Sufficient detail should be found in the [tests/data/fcm_examples subdir](https://github.com/ArnoVel/structure-identification/tests/data/fcm_examples) of my code repo.
+Sufficient detail should be found in the `tests/data/fcm_examples` subdirectory of [my code repo](https://github.com/ArnoVel/structure-identification/)
+( a [direct link](https://github.com/ArnoVel/structure-identification/tree/master/tests/data/fcm_examples), subject to changes).
